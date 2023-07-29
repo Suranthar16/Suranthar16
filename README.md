@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suranthar16
 - 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ... fll Stack Java Developer
+- 🌱 I’m currently learning ... full Stack Java Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... suranthar16@gmail.com
 
